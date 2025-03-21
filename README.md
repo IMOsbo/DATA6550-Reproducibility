@@ -38,7 +38,8 @@ This folder contains the provided data files.
 This section of the repository holds datasets, maps, and other useful information that we sued for this project.
 
 Some intereting links are:
-- Inof here...
+
+- Info here...
 
 ### Collaboration (`/Collaboration`)
 

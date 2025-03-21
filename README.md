@@ -1,4 +1,4 @@
-# DATA6550-Visualization
+# DATA6550 - Reproducibility
 
 _Spring 2025 DATA 6550 - Group 7_
 

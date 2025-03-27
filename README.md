@@ -4,7 +4,7 @@ _Spring 2025 DATA 6550 - Group 7_
 
 ## Overview
 
-What we are doing...
+Trying to reproduce outcomes described in the *GROKKING: GENERALIZATION BEYOND OVERFITTING ON SMALL ALGORITHMIC DATASETS* 
 
 ## Final Report
 

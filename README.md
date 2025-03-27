@@ -10,7 +10,7 @@ What we are doing...
 
 The link below is to the shared one-drive Word document.
 
-[Word Doc Report - Online](URL-HERE)
+[Google Doc Report - Online](https://docs.google.com/document/d/1TETR4bcUFEZkhamFGAqK3DDbGmghYl72QykGDiR2ndw/edit?usp=sharing)
 
 ## Team / Group Members
 

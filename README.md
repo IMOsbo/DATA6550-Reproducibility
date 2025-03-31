@@ -39,7 +39,7 @@ This section of the repository holds datasets, maps, and other useful informatio
 
 Some intereting links are:
 
-- Info here...
+- HPC (Hamilton): [Link to Hamilton](https://hamilton-od.cs.mtsu.edu/)
 
 ### Collaboration (`/Collaboration`)
 

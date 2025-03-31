@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # clone the repo
 git clone https://github.com/openai/grok
 
